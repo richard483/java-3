@@ -1,0 +1,4 @@
+Nama kendaraan: motor
+Jumlah roda kendaraan: 2
+Jenis bahan bakar kendaraan: minyak
+Harga kendaraan: 20000
